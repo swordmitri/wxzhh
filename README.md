@@ -28,8 +28,8 @@
 5. 整句增强：两码句（`tiger_sentence`）、二三句（`mets`）、原码句（`xumn`）  
 6. 调频策略：音码自动调频  
 7. 交互改进：  
-   - 快捷键：Control+z（虎单开关）/ Control+a（虎词开关）/ Control+s（虎句开关）/ Control+m（显示拆分）  
-   - 自造词前缀改为 ach  
+   - 快捷键：`Control+z`（虎单开关）/ `Control+a`（虎词开关）/ `Control+s`（虎句开关）/ `Control+m`（显示拆分）  
+   - 自造词前缀改为 `ach`  
    - Tips 上屏符号改为 /
 
 ---
