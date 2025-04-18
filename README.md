@@ -3,14 +3,11 @@
 ## 方案简介
 万象虎是基于[万象方案](https://github.com/amzxyz/rime_wanxiang_pinyin)改造的 Rime 输入方案。结合了虎码强大的离散效果和万象方案优质词库及其模型对整句的优化，使得打字越来越爽！
 
-![PixPin_2025-04-19_01-22-07](https://github.com/user-attachments/assets/4367e1b2-54f9-4606-8b8c-b0c20f82c227)
-
 <img 
   src="https://github.com/user-attachments/assets/4367e1b2-54f9-4606-8b8c-b0c20f82c227" 
   alt="PixPin_2025-04-19_01-22-07" 
-  width="50%"
+  width="70%"
 />
-
 
 核心特性如下：
 - 虎码置顶：支持通过开关分别关闭虎码整句、虎词、虎单、音码功能
